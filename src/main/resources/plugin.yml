@@ -1,0 +1,4 @@
+name: EffectsPreviewer
+version: '${version}'
+main: dev.u9g.effectspreviewer.EffectsPreviewer
+api-version: 1.18

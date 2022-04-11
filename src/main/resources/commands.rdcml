@@ -1,0 +1,229 @@
+animatedball {
+    hook animatedball
+    user player
+}
+
+arc {
+    hook arc
+    user player
+}
+
+atom {
+    hook atom
+    user player
+}
+
+bigbang {
+    hook bigbang
+    user player
+}
+
+bleed {
+    hook bleed
+    user player
+}
+
+circle {
+    hook circle
+    user player
+}
+
+cloud {
+    hook cloud
+    user player
+}
+
+coloredimage {
+    hook coloredimage
+    user player
+}
+
+cone {
+    hook cone
+    user player
+}
+
+cube {
+    hook cube
+    user player
+}
+
+cuboid {
+    hook cuboid
+    user player
+}
+
+cylinder particle:particle {
+    hook cylinder
+    user player
+}
+
+discoball {
+    hook discoball
+    user player
+}
+
+dna {
+    hook dna
+    user player
+}
+
+donut {
+    hook donut
+    user player
+}
+
+dragon {
+    hook dragon
+    user player
+}
+
+earth {
+    hook earth
+    user player
+}
+
+equation {
+    hook equation
+    user player
+}
+
+explode {
+    hook explode
+    user player
+}
+
+flame {
+    hook flame
+    user player
+}
+
+fountain {
+    hook fountain
+    user player
+}
+
+grid {
+    hook grid
+    user player
+}
+
+heart {
+    hook heart
+    user player
+}
+
+helix {
+    hook helix
+    user player
+}
+
+hill {
+    hook hill
+    user player
+}
+
+icon {
+    hook icon
+    user player
+}
+
+jump {
+    hook jump
+    user player
+}
+
+line {
+    hook line
+    user player
+}
+
+love {
+    hook love
+    user player
+}
+
+modified {
+    hook modified
+    user player
+}
+
+music {
+    hook music
+    user player
+}
+
+plot {
+    hook plot
+    user player
+}
+
+pyramid {
+    hook pyramid
+    user player
+}
+
+shield {
+    hook shield
+    user player
+}
+
+skyrocket {
+    hook skyrocket
+    user player
+}
+
+sound {
+    hook sound
+    user player
+}
+
+sphere {
+    hook sphere
+    user player
+}
+
+square {
+    hook square
+    user player
+}
+
+star {
+    hook star
+    user player
+}
+
+text string:text {
+    hook text
+    user player
+}
+
+tornado {
+    hook tornado
+    user player
+}
+
+trace {
+    hook trace
+    user player
+}
+
+turn {
+    hook turn
+    user player
+}
+
+vortex {
+    hook vortex
+    user player
+}
+
+warp {
+    hook warp
+    user player
+}
+
+wave {
+    hook wave
+    user party
+}
